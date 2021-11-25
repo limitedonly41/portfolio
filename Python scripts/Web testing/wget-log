@@ -1,0 +1,12 @@
+--2021-11-25 17:24:29--  http://-/
+Распознаётся - (-)… ошибка: nodename nor servname provided, or not known.
+wget: не удаётся разрешить адрес «-»
+--2021-11-25 18:03:21--  http://__exploratory/
+Распознаётся __exploratory (__exploratory)… ошибка: nodename nor servname provided, or not known.
+wget: не удаётся разрешить адрес «__exploratory»
+--2021-11-25 18:03:26--  http://data/
+Распознаётся data (data)… ошибка: nodename nor servname provided, or not known.
+wget: не удаётся разрешить адрес «data»
+--2021-11-25 18:03:31--  http://analysis__/
+Распознаётся analysis__ (analysis__)… ошибка: nodename nor servname provided, or not known.
+wget: не удаётся разрешить адрес «analysis__»
