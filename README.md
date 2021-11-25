@@ -8,7 +8,7 @@ You will like those projects!
 
 ---
 
-+ __[PYTHON SCRIPTS]__
++ __PYTHON SCRIPTS__
   - __[Web Testing](https://github.com/limitedonly41/upwork_portfolio/tree/main/Python%20scripts/Web%20testing)__
   - __[Algos](https://github.com/limitedonly41/upwork_portfolio/tree/main/Python%20scripts/Algos)__
   - __[Visualizing](https://github.com/limitedonly41/upwork_portfolio/tree/main/Python%20scripts/Game)__
