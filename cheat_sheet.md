@@ -4,11 +4,8 @@ from task import manager
 
 import asyncio
 from asyncio import Lock
-
-# Create a lock to ensure tasks are processed sequentially
 task_lock = Lock()
 
-# Initialize FastAPI app and logger
 app = FastAPI()
 logger = setup_logging()
 task_queue = asyncio.Queue()  # A queue to store incoming tasks
