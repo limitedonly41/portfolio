@@ -1,4 +1,4 @@
-# fastapi sequental queue order
+ # Fastapi sequental queue order
 
 ```python
 
@@ -24,7 +24,7 @@ async def process_add(task_request: TaskRequest, request: Request):
 ```
 
 
-# Complete Solution for Managing a `systemd` Service for Uvicorn
+## Complete Solution for Managing a `systemd` Service for Uvicorn
 
 ## Step 1: Create the Service File
 Create a new service file `/etc/systemd/system/myapp.service` with the following content:
@@ -57,9 +57,9 @@ StandardError=file:/home/administrator/app_models/main_model/app_main.log
 WantedBy=multi-user.target
 ```
 
-# Managing the `myapp` Service
+## Managing the `myapp` Service
 
-## Stop the Service
+### Stop the Service
 To stop the service, run:
 
 ```bash
